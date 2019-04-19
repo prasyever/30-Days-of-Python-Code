@@ -1,5 +1,5 @@
 # 30-Days-of-Python-Code :thumbsup:
- Improve your coding skills with 30 Days of Code. You’ll be surprised at how much you can learn by coding for 30 days straight.Topics include if-then-else statements, recursion, data structures, object-oriented programming, running time, and testing. 
+ Improve your coding skills with 30 Days of Code. You’ll be surprised at how much you can learn by coding for 30 days straight.Topics include if-then-else statements, recursion, data structures, object-oriented programming, running time, and testing. Thanks to https://www.hackerrank.com
  
 ## Day 0: Hello, World
  To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line, and finally print the value of your variable on a second line.
