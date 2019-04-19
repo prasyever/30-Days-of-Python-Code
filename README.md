@@ -14,7 +14,7 @@ A single line of text denoting *inputString* (the variable whose contents must b
 **Output Format** : 
 Print Hello, World. on the first line, and the contents of *inputString* on the second line.
 
-**Solution** : Refer **day_0.py** file
+<code>**Solution** : Refer **day_0.py** file</code>
 
 ## Day 1: Data Types
 **Task :**
@@ -47,4 +47,5 @@ is the best place to learn and practice coding!
 HackerRank is the best place to learn and practice coding!
 </code></pre></div></div></div>
 
-**Solution** : Refer day_1.py file
+<code>**Solution** : Refer **day_1.py** file</code>
+
